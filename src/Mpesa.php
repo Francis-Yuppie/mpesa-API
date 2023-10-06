@@ -48,7 +48,7 @@ class Mpesa
         //also create a .env file for this code
 
         /*
-         * the .env file should contain these constans
+         * the .env file should contain these constants
          
          * MPESA_CONSUMER_KEY = oeudYucB936WGswmEk
 
